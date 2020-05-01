@@ -1,0 +1,1 @@
+This is Rintss's first git project!
